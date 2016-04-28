@@ -3,6 +3,9 @@
 3. Firebase
 4. material-ui
 5. lodash
+6. ES 6/7
+
+This is very basic-raw code not following much good practices or Flux
 
 Based on https://github.com/hendrikswan/react-stack
 
