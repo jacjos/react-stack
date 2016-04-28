@@ -45,7 +45,9 @@ class MessageList extends React.Component {
             flexGrow:2,
             marginLeft:30
           }}>
-          <LinearProgress mode="indeterminate" style={{marginTop:50}}/>
+          <div style={{paddingLeft: 30, paddingRight: 30}}>
+            <LinearProgress mode="indeterminate" style={{marginTop: 50}}/>
+          </div>
         </Card>
       );
     }else{
