@@ -1,8 +1,8 @@
-Reactjs
-WebPack
-Firebase
-material-ui
-lodash
+1. Reactjs
+2. WebPack
+3. Firebase
+4. material-ui
+5. lodash
 
 Based on https://github.com/hendrikswan/react-stack
 
