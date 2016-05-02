@@ -14,12 +14,13 @@ Based on https://github.com/hendrikswan/react-stack
 #Deployment
 This app is deployed and is running @ https://jacjos-react-stack.firebaseapp.com/
 
-#Further references
+#Further Reading
 
 1. http://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html
 2. https://www.codementor.io/reactjs/tutorial/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack
-3. WebPack - https://robots.thoughtbot.com/setting-up-webpack-for-react-and-hot-module-replacement
-4. WebPack - https://webpack.github.io/docs/webpack-dev-server.html
+3. Webpack - https://robots.thoughtbot.com/setting-up-webpack-for-react-and-hot-module-replacement
+4. Webpack - https://webpack.github.io/docs/webpack-dev-server.html
+5. Ultimate Webpack setup - http://www.christianalfoni.com/articles/2015_04_19_The-ultimate-webpack-setup
 
 #Build and Deploy
 1. npm install
