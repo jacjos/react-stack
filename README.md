@@ -11,7 +11,7 @@ This is very basic-raw code not following much good practices or Flux
 
 Based on https://github.com/hendrikswan/react-stack
 
-#Deployment
+#Demo
 This app is deployed and is running @ https://jacjos-react-stack.firebaseapp.com/
 
 #Further Reading
